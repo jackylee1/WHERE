@@ -1,3 +1,3 @@
 # WHERE
-An IOS app taking advantage of AWS services
+An IOS app taking advantage of AWS services.
 See work flow in .ppt file
